@@ -8,11 +8,11 @@
 , "bugs" : "http://jira.webinos.org"
 , "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/webinos/webinos-certificateHandler.git"
+  , "url" : "https://github.com/heiiko/webinos-certificateHandler.git"
   }
 , "dependencies" :
-  { "webinos-keyStorage" : "git://github.com/webinos/webinos-keyStorage.git", 
-    "webinos-utilities"  : "git://github.com/webinos/webinos-utilities.git"
+  { "webinos-keyStorage" : "git://github.com/heiiko/webinos-keyStorage.git", 
+    "webinos-utilities"  : "git://github.com/heiiko/webinos-utilities.git"
   }
 , "devDependencies" : {
     "jasmine-node": "~1.7.0"
